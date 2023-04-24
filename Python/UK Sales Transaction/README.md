@@ -1,6 +1,6 @@
 # Sales Transaction Data Analysis
 
-This portfolio folder contains a data analysis project on a sales transaction dataset for a UK-based e-commerce business. The dataset contains one year of sales transaction data for gifts and homewares sold through the business's website.
+This folder contains a data analysis project on a sales transaction dataset for a UK-based e-commerce business. The dataset contains one year of sales transaction data for gifts and homewares sold through the business's website.
 
 ## Files
 

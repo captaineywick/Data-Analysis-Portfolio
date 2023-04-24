@@ -19,6 +19,5 @@ Data Information:
 - Contains 536,350 rows and 8 columns
 
 Project:
-- [View the project here](https://www.github.com)
+- [View the project here](https://github.com/huskyyyboy/Data-Analysis-Portfolio/tree/master/Python/UK%20Sales%20Transaction)
 - [View the presentation here](https://www.github.com): In progress, check back soon
-

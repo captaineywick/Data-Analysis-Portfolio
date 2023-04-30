@@ -19,9 +19,10 @@ This data analysis project aims to answer the following questions:
 
 ## Py Version and Library Used
 
-The data analysis project was conducted using Python 3. The following Python libraries were used:
+This data analysis project was conducted using Python 3. The following Python libraries were used:
 
 - Pandas
 - Matplotlib
 - Seaborn
 - Plotly
+- Numpy

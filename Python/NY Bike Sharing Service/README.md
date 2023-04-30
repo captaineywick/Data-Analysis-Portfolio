@@ -6,7 +6,7 @@ A bike-sharing service is a shared transport service in which bicycles are made 
 
 ## Files
 
-- `New York Citibike Trips.csv`: The dataset used in the analysis
+- `New York Citibike Trips.csv`: removed due to size limit for GitHub push
 - `NY Bike Sharing Service Portfolio.ipynb`: A Jupyter notebook containing the data analysis for the bike-sharing service dataset
 
 ## Questions
@@ -19,7 +19,7 @@ This data analysis project aims to answer the following questions:
 
 ## Py Version and Library Used
 
-The data analysis project was conducted using Python 3. The following Python libraries were used:
+This data analysis project was conducted using Python 3. The following Python libraries were used:
 
 - Pandas
 - Matplotlib

@@ -7,7 +7,9 @@
    2. [New York Citibike Service Data](#New-York-Citibike-Service-Data)
 2. [SQL](https://www.github.com): In progress, check back soon
 3. [Excel](https://www.github.com): In progress, check back soon
-4. [Tableau Visualization](https://www.github.com): In progress, check back soon
+4. [Tableau Visualization](#Tableau-Visualization)
+   1. [Presentations/Stories](#Presentations)
+   2. [Dashboards](#Dashboards)
 
 ## Python Projects
 ### Sales Transaction Data
@@ -28,4 +30,12 @@ Data Information:
 
 Project:
 - [View the project here](https://github.com/huskyyyboy/Data-Analysis-Portfolio/tree/master/Python/NY%20Bike%20Sharing%20Service)
-- [View the presentation here](https://www.github.com): In progress, check back soon
+- [View the presentation here](https://public.tableau.com/app/profile/eywick.francis/viz/NYCitibike-BikeSharingPresentation/CitiBikePresentation)
+
+## Tableau Visualization
+
+### Presentations
+1. [New York Citibike Service](https://public.tableau.com/app/profile/eywick.francis/viz/NYCitibike-BikeSharingPresentation/CitiBikePresentation)
+
+### Dashboards
+1. In progress

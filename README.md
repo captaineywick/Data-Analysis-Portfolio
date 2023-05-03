@@ -33,7 +33,6 @@ Project:
 - [View the presentation here](https://public.tableau.com/app/profile/eywick.francis/viz/NYCitibike-BikeSharingPresentation/CitiBikePresentation)
 
 ## Tableau Visualization
-
 ### Presentations
 1. [New York Citibike Service](https://public.tableau.com/app/profile/eywick.francis/viz/NYCitibike-BikeSharingPresentation/CitiBikePresentation)
 

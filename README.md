@@ -44,7 +44,7 @@ Data Information:
 - Contains 2571 rows and 11 columns
 
 Project:
-- [View the project](https://www.github.com): In progress, check back soon
+- [View the project](https://github.com/huskyyyboy/Data-Analysis-Portfolio/tree/master/SQL/Suicide%20Attempts%20in%20Shandong%20China)
 - [View the presentation](https://www.github.com): In progress, check back soon
 
 ## Tableau Visualization

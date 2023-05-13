@@ -5,14 +5,14 @@ In this folder, you will find a data analysis project that delves into a compreh
 ## Files
 
 - `SuicideChina.csv`: A CSV file that contains the data that we will insert into SQL
-- `suicide_attempts.db`: A database that contains what we will use to conduct this analysis
+- `suicide_cases.db`: A database that contains what we will use to conduct this analysis
 - `Suicide Attempts in Shandong, China.ipynb`: A Jupyter notebook that documents the data analysis for the Suicide Attempts in Shandong, China dataset
 
 ## Questions
 
 This data analysis project aims to answer the following questions:
-1. How many survived and how many died? Hospitalised and non hospitalised.
-2. What year had the highest suicide attempts and deaths?
+1. How many individuals survived and how many died by suicide, categorized by hospitalization status (hospitalized vs. non-hospitalized)?
+2. What was the year with the highest number of suicide attempts and deaths?
 3. What is the year with the highest number of deaths from attempted suicide, considering hospitalised and not hospitalised cases?
 4. What month had the highest suicide attempts and deaths?
 5. What gender had the highest suicide attempts and deaths?

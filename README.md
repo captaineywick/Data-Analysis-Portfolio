@@ -45,7 +45,7 @@ Data Information:
 
 Project:
 - [View the project](https://github.com/huskyyyboy/Data-Analysis-Portfolio/tree/master/SQL/Suicide%20Attempts%20in%20Shandong%20China)
-- [View the presentation](https://www.github.com): In progress, check back soon
+- [View the dashboard](https://public.tableau.com/app/profile/eywick.francis/viz/SuicideCasesDashboard/SuicideCasesDashboard)
 
 ## Tableau Visualization
 ### Presentations
@@ -55,3 +55,4 @@ Project:
 1. UK E-commerce Sales Transaction
    1. [Map Dashboard](https://public.tableau.com/app/profile/eywick.francis/viz/UKE-commerceMapDashboard/MapSalesDashboard)
    2. [Monthly Sales Dashboard](https://public.tableau.com/app/profile/eywick.francis/viz/UKE-commerceMonthlySalesDashboard/MonthlySalesDashboard)
+2. [Suicide Attempts in Shandong, China](https://public.tableau.com/app/profile/eywick.francis/viz/SuicideCasesDashboard/SuicideCasesDashboard)

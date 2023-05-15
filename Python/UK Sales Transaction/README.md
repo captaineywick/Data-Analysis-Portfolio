@@ -13,7 +13,7 @@ This data analysis project aims to answer the following questions:
 
 1. How was the sales trend over the months?
 2. What are the most frequently purchased products?
-3. How many products does the customer purchase in each transaction?
+3. What is the average number of products per transaction that a customer buys, and what is the average quantity purchased per transaction?
 4. What are the most profitable segment customers?
 5. Based on your findings, what strategy could you recommend to the business to gain more profit?
 

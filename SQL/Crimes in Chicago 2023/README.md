@@ -1,6 +1,6 @@
 # Crimes in Chicago (January 2023 - May 2023)
 
-This repository contains a data analysis project focused on crimes in Chicago during the period of January 2023 to May 2023. The project aims to provide insights and answers to various questions using the available data.
+This folder contains a data analysis project focused on crimes in Chicago during the period of January 2023 to May 2023. The project aims to provide insights and answers to various questions using the available data.
 
 ## Files
 

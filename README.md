@@ -7,7 +7,7 @@
    2. [New York Citibike Service](#New-York-Citibike-Service)
 2. [SQL](#sql-projects)
    1. [Suicide Attempts in Shandong, China](#suicide-attempts-in-shandong-china)
-   2. [Crimes in Chicago (January 2023 - May 2023)](#crimes-in-chicago--january-2023---may-2023-)
+   2. [Crimes in Chicago (January 2023 - May 2023)](#crimes-in-chicago)
 3. [Excel](https://www.github.com): In progress, check back soon
 4. [Tableau Visualization](#Tableau-Visualization)
    1. [Presentations/Stories](#Presentations)
@@ -49,7 +49,7 @@ Project:
 - [View the project](https://github.com/huskyyyboy/Data-Analysis-Portfolio/tree/master/SQL/Suicide%20Attempts%20in%20Shandong%20China)
 - [View the dashboard](https://public.tableau.com/app/profile/eywick.francis/viz/SuicideCasesDashboard/SuicideCasesDashboard)
 
-### Crimes in Chicago (January 2023 - May 2023)
+### Crimes in Chicago
 This dataset contains crimes that occurred in Chicago between January 2023 and May 2023.
 
 Source:
@@ -59,7 +59,7 @@ Data Information:
 - Contains approximately 86,000 rows and 22 columns
 
 Project:
-- [View the project](https://github.com/)
+- [View the project](https://github.com/captaineywick/Data-Analysis-Portfolio/tree/master/SQL/Crimes%20in%20Chicago%202023)
 - [View the dashboard](https://github.com/): In progress, check back soon
 
 ## Tableau Visualization

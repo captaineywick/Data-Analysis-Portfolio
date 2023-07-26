@@ -3,8 +3,9 @@
 ## Table of Contents
 
 1. [Python](#Python-Projects)
-   1. [UK E-commerce Sales Transaction](#uk-e-commerce-sales-transaction)
-   2. [New York Citibike Service](#New-York-Citibike-Service)
+   1. [Social Buzz](#social-buzz)
+   2. [UK E-commerce Sales Transaction](#uk-e-commerce-sales-transaction)
+   3. [New York Citibike Service](#New-York-Citibike-Service)
 2. [SQL](#sql-projects)
    1. [Suicide Attempts in Shandong, China](#suicide-attempts-in-shandong-china)
    2. [Crimes in Chicago (January 2023 - May 2023)](#crimes-in-chicago)
@@ -14,6 +15,14 @@
    2. [Dashboards](#Dashboards)
 
 ## Python Projects
+### Social Buzz
+Social Buzz is a social media platform that prioritizes content over individual users, ensuring trending content takes center stage in user feeds. The platform tracks user reactions anonymously, offering more than 100 ways for users to react to content, going beyond traditional likes, dislikes, and comments.
+
+Data Information:
+- Content dataset: 1000 rows and 5 columns.
+- Content reactions dataset: 25,553 rows and 4 columns.
+- Content react type dataset: 16 rows and 3 columns.
+
 ### UK E-commerce Sales Transaction
 This is a sales transaction data set of UK-based e-commerce (online retail) for one year. This London-based shop has been selling gifts and homewares for adults and children through the website since 2007. Their customers come from all over the world and usually make direct purchases for themselves. There are also small businesses that buy in bulk and sell to other customers through retail outlet channels.
 

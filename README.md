@@ -23,6 +23,9 @@ Data Information:
 - Content reactions dataset: 25,553 rows and 4 columns.
 - Content react type dataset: 16 rows and 3 columns.
 
+Project:
+- [View the project](https://github.com/captaineywick/Data-Analysis-Portfolio/tree/master/Python/Social%20Buzz)
+
 ### UK E-commerce Sales Transaction
 This is a sales transaction data set of UK-based e-commerce (online retail) for one year. This London-based shop has been selling gifts and homewares for adults and children through the website since 2007. Their customers come from all over the world and usually make direct purchases for themselves. There are also small businesses that buy in bulk and sell to other customers through retail outlet channels.
 

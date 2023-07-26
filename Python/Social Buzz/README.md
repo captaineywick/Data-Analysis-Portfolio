@@ -1,6 +1,6 @@
 # Social Buzz Data Analysis
 
-This folder contains a data analysis project focused on the social media platform "Social Buzz." The platform prioritizes content over individual users, ensuring that trending content takes center stage in user feeds. User reactions to content are tracked anonymously, providing more than 100 reaction options beyond traditional likes, dislikes, and comments.
+This folder contains a data analysis project focused on the social media platform "Social Buzz". The platform prioritizes content over individual users, ensuring that trending content takes center stage in user feeds. User reactions to content are tracked anonymously, providing more than 100 reaction options beyond traditional likes, dislikes, and comments.
 
 ## Files
 

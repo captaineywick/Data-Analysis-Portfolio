@@ -2,17 +2,17 @@
 
 ## Table of Contents
 
-1. [Python](#Python-Projects)
+1. [Python](#python-projects)
    1. [Social Buzz](#social-buzz)
    2. [UK E-commerce Sales Transaction](#uk-e-commerce-sales-transaction)
-   3. [New York Citibike Service](#New-York-Citibike-Service)
+   3. [New York Citibike Service](#new-york-citibike-service)
 2. [SQL](#sql-projects)
    1. [Suicide Attempts in Shandong, China](#suicide-attempts-in-shandong-china)
    2. [Crimes in Chicago (January 2023 - May 2023)](#crimes-in-chicago)
 3. [Excel](https://www.github.com): In progress, check back soon
-4. [Tableau Visualization](#Tableau-Visualization)
-   1. [Presentations/Stories](#Presentations)
-   2. [Dashboards](#Dashboards)
+4. [Tableau Visualization](#tableau-visualization)
+   1. [Presentations/Stories](#presentations)
+   2. [Dashboards](#dashboards)
 
 ## Python Projects
 ### Social Buzz
@@ -26,8 +26,17 @@ Data Information:
 Project:
 - [View the project](https://github.com/captaineywick/Data-Analysis-Portfolio/tree/master/Python/Social%20Buzz)
 
+### Real Estate
+This dataset contains scraped data from Lamudi, a top real estate platform in the Philippines, connecting sellers, buyers, and renters. It offers a secure interface to list and discover properties online, catering to residential, commercial, and investment needs.
+
+Data Information:
+- Contains 1500 rows and 10 columns.
+
+Project:
+- [View the project]()
+
 ### UK E-commerce Sales Transaction
-This is a sales transaction data set of UK-based e-commerce (online retail) for one year. This London-based shop has been selling gifts and homewares for adults and children through the website since 2007. Their customers come from all over the world and usually make direct purchases for themselves. There are also small businesses that buy in bulk and sell to other customers through retail outlet channels.
+This is a sales transaction dataset of UK-based e-commerce (online retail) for one year. This London-based shop has been selling gifts and homewares for adults and children through the website since 2007. Their customers come from all over the world and usually make direct purchases for themselves. There are also small businesses that buy in bulk and sell to other customers through retail outlet channels.
 
 Data Information:
 - Contains 536,350 rows and 8 columns

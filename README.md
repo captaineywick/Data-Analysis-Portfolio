@@ -4,8 +4,9 @@
 
 1. [Python](#python-projects)
    1. [Social Buzz](#social-buzz)
-   2. [UK E-commerce Sales Transaction](#uk-e-commerce-sales-transaction)
-   3. [New York Citibike Service](#new-york-citibike-service)
+   2. [Real Estate](#real-estate)
+   3. [UK E-commerce Sales Transaction](#uk-e-commerce-sales-transaction)
+   4. [New York Citibike Service](#new-york-citibike-service)
 2. [SQL](#sql-projects)
    1. [Suicide Attempts in Shandong, China](#suicide-attempts-in-shandong-china)
    2. [Crimes in Chicago (January 2023 - May 2023)](#crimes-in-chicago)
@@ -33,7 +34,7 @@ Data Information:
 - Contains 1500 rows and 10 columns.
 
 Project:
-- [View the project]()
+- [View the project](https://github.com/captaineywick/Data-Analysis-Portfolio/tree/master/Python/Real%20Estate)
 
 ### UK E-commerce Sales Transaction
 This is a sales transaction dataset of UK-based e-commerce (online retail) for one year. This London-based shop has been selling gifts and homewares for adults and children through the website since 2007. Their customers come from all over the world and usually make direct purchases for themselves. There are also small businesses that buy in bulk and sell to other customers through retail outlet channels.

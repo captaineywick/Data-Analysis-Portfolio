@@ -1,4 +1,4 @@
-# Social Buzz Data Analysis
+# Real Estate Data Analysis
 
 Within this folder lies a project centered around data analysis and machine learning, with a specific focus on the condominium real estate sector in the Philippines.
 ## Files

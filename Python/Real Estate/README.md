@@ -3,7 +3,7 @@
 Within this folder lies a project centered around data analysis and machine learning, with a specific focus on the condominium real estate sector in the Philippines.
 ## Files
 
-- `Real Estate PH.ipynb`: This Jupyter notebook conducts data cleaning and transformation for analysis and machine learning purposes.
+- `Philippine Condo Price Forecast.ipynb`: This Jupyter notebook conducts data cleaning and transformation for analysis and machine learning purposes.
 
 ## Objective
 

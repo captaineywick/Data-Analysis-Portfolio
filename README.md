@@ -31,8 +31,8 @@ Project:
 This dataset contains scraped data from Lamudi, a top real estate platform in the Philippines, connecting sellers, buyers, and renters. It offers a secure interface to list and discover properties online, catering to residential, commercial, and investment needs.
 
 Data Information:
-- Philippine House Price Forecast: Contains approximately 3000 rows and 6 columns.
-- Philippine Condo Price Forecast: Contains approximately 1500 rows and 7 columns.
+- Lamudi PH House Price Forecast: Contains approximately 3000 rows and 6 columns.
+- Lamudi PH Condo Price Forecast: Contains approximately 1500 rows and 7 columns.
 
 Project:
 - [View the project](https://github.com/captaineywick/Data-Analysis-Portfolio/tree/master/Python/Real%20Estate)

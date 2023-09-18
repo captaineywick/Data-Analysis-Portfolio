@@ -2,8 +2,8 @@
 Within this folder lies a project centered around data analysis and machine learning, with a specific focus on the condominium and house real estate sector in the Philippines.
 
 ## Files
-- `Philippine Condo Price Forecast.ipynb`: This Jupyter notebook focuses on data cleaning, transformation, and analysis for condominium price prediction in the Philippines.
-- `Philippine House Price Forecast.ipynb`: This Jupyter notebook focuses on data cleaning, transformation, and analysis for house price prediction in the Philippines.
+- `Lamudi PH Condo Price Forecast.ipynb`: This Jupyter notebook is dedicated to data cleaning, transformation, and analysis for condominium price prediction using Lamudi PH data.
+- `Lamudi PH House Price Forecast.ipynb`: This Jupyter notebook is dedicated to data cleaning, transformation, and analysis for house price prediction using Lamudi PH data.
 
 ## Objective
 This project involves in-depth data analysis and predictive modeling to estimate condominium unit and house prices based on various features.

@@ -10,8 +10,7 @@
 2. [SQL](#sql-projects)
    1. [Suicide Attempts in Shandong, China](#suicide-attempts-in-shandong-china)
    2. [Crimes in Chicago (January 2023 - May 2023)](#crimes-in-chicago)
-3. [Excel](https://www.github.com): In progress, check back soon
-4. [Tableau Visualization](#tableau-visualization)
+3. [Tableau Visualization](#tableau-visualization)
    1. [Presentations/Stories](#presentations)
    2. [Dashboards](#dashboards)
 
@@ -32,7 +31,7 @@ This dataset contains scraped data from Lamudi, a top real estate platform in th
 
 Data Information:
 - Lamudi PH House Price Forecast: Contains approximately 3000 rows and 6 columns.
-- Lamudi PH Condo Price Forecast: Contains approximately 1500 rows and 7 columns.
+- Lamudi PH Condo Price Forecast:ws and 7 columns.
 
 Project:
 - [View the project](https://github.com/captaineywick/Data-Analysis-Portfolio/tree/master/Python/Real%20Estate)

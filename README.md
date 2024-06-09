@@ -31,7 +31,7 @@ This dataset contains scraped data from Lamudi, a top real estate platform in th
 
 Data Information:
 - Lamudi PH House Price Forecast: Contains approximately 3000 rows and 6 columns.
-- Lamudi PH Condo Price Forecast:ws and 7 columns.
+- Lamudi PH Condo Price Forecast: Contains approximately 1500 rows and 7 columns.
 
 Project:
 - [View the project](https://github.com/captaineywick/Data-Analysis-Portfolio/tree/master/Python/Real%20Estate)
